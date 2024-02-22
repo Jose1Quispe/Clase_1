@@ -1,0 +1,28 @@
+*{
+    margin: 20px;
+    background-color: khaki;
+}
+
+body{
+    font-family:  Tahoma;
+}
+h1 
+{
+    color: deeppink;
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px;
+    border-style: dotted;
+    background-color: coral;
+}
+p{
+    color: blue;
+    text-align: justify;
+}
+img{
+    width: 30%;
+    
+
+
+}
